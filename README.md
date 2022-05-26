@@ -1,11 +1,11 @@
-## Practising Solidity-By-Example Applications
+## Practising Learn DAO
 
 ---
 
-This is an ether wallet contract made using the [guide](https://solidity-by-example.org/app/ether-wallet) in Solidity by Example.
+This is a basic whitelist DApp made using the [guide](https://www.learnweb3.io/tracks/sophomore/whitelist-dapp) in Learn DAO.
 
 Done using hardhat, tested with waffle, deployed using hardhat-deploy.
 
 ---
 
-Verified on [Etherscan](https://rinkeby.etherscan.io/address/0x2922d830a30570fdb15d256569d32Ea62C9BA60c#code)
+Verified on [Etherscan](https://rinkeby.etherscan.io/address/0xE4E2d302Ad10b256B94C03f43D1a65d582F9a59E#code)
